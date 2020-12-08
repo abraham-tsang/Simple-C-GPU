@@ -1,3 +1,3 @@
 # Simple C/GPU
 ## General Design
-simplecpudesign.com as design
+simplecpudesign.com as reference
